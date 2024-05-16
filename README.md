@@ -59,7 +59,7 @@
   </a>
     <a href="https://angular.io/" target="_blank">
     <img
-      src="https://tr.wikipedia.org/wiki/Dosya:Angular_gradient.png"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Angular_gradient.png/1200px-Angular_gradient.png"
       alt="angular"
       width="40"
       height="40"
