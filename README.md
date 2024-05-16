@@ -57,6 +57,14 @@
       height="40"
     />
   </a>
+    <a href="https://angular.io/" target="_blank">
+    <img
+      src="https://tr.wikipedia.org/wiki/Dosya:Angular_gradient.png"
+      alt="angular"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 <br /><br />
 <div align="center">
